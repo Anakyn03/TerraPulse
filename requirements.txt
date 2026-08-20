@@ -1,0 +1,7 @@
+earthengine-api
+streamlit
+streamlit-image-comparison
+scikit-learn
+scipy
+Pillow
+joblib
